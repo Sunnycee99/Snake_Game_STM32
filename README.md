@@ -1,6 +1,9 @@
 # Snake_Game_STM32
 贪吃蛇游戏-基于STM32
 
+## 成品展示
+![成品展示](https://github.com/Sunnycee99/Snake_Game_STM32/blob/master/%E6%88%90%E5%93%81%E5%B1%95%E7%A4%BA.gif)
+
 ## 游戏主要功能
 - 活动区域为8个字符方块；
 - 蛇身长度显示；
